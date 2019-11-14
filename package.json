@@ -1,0 +1,23 @@
+{
+  "name": "4012discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4012Robotics/4012-Server-Discord-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4012Robotics/4012-Server-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/4012Robotics/4012-Server-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "uws": "^100.0.1"
+  }
+}
