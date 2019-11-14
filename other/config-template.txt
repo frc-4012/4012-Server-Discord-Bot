@@ -1,0 +1,18 @@
+/*
+    - This the config file for **FRC TEAM 4012's DISCORD BOT ONLY**
+    - If this file and (or) its associated files are published and connected to any other repository than any in the 4012-Github organization, the file will not allow the bot to start. 
+    - This fil will not allow the bot to connect to Discord if this bot is not connected to the proper FRC4012 discord accounnt.
+                                **For 4012 Developers**
+                        - This file should only be in the  .js file format. 
+                        - This file should never be in the .json format, it will not work properly. 
+                        - If this file is published to any other repository, the file will not work. Please update the proper config values to fix this. 
+                        - This file is only compatible with the bot "4012-Helper", added to any other bot, the file will not work. 
+*/
+module.exports = {
+    token: "token here",
+    prefix: "~",
+    devMode: false,
+    danIsAnnoying: true,
+    checkIfProperClient: true,
+    clientID: 0
+}
